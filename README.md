@@ -1,4 +1,4 @@
-# Hey There, I'm Konstantin Giannakis
+# Hey There, I'm Konstantin Giannakis.  ![hand-icon](/hand-emoji.svg)
 
 I'm **Front-End** developer based in Komotini, Greece. I'm interested in development 
 of clean and versatile websites.
