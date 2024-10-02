@@ -4,8 +4,5 @@ I'm **Front-End** developer based in Komotini, Greece. I'm interested in develop
 of clean and versatile websites.
 
 ## Skills
-![html-icon](/html-icon.svg)
-![css-icon](/css-icon.svg)
-![js-icon](/js-icon.svg)
-![react-icon](/react-icon.svg)
-![nextjs-icon](/nextjs-icon.svg)
+![html-icon](/html-icon.svg) ![css-icon](/css-icon.svg)  ![js-icon](/js-icon.svg) ![react-icon](/react-icon.svg)
+ ![nextjs-icon](/nextjs-icon.svg)
