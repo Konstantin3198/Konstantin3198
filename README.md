@@ -3,3 +3,6 @@
 I'm **Front-End** developer based in Komotini, Greece. I'm interested in development 
 of clean and versatile websites.
 
+## Skills
+
+![css-icon](/css-icon.svg)
