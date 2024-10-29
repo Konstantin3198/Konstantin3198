@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there! My name is Konstantin Giannakis 👋
 
-<!--
-**Konstantin3198/Konstantin3198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀  I'm **Front-End** Developer based in Komotini, Greece.
 
-Here are some ideas to get you started:
+## Skills  
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) 
+<img width='40' height='50' src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" alt="sql"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contanct
+
+[![linkedin](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/konstantin-giannakis-ab388628b)
+[![mail](https://img.icons8.com/?size=50&id=3AYCSzCO85Qw&format=png&color=000000)](mailto:konstantinos3198@gmail.com)
+
+
